@@ -5,4 +5,9 @@
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
+  padding: 100px 25px;
+}
+
+.container-fluid {
+  padding: 60px 50px;
 }
