@@ -20,6 +20,8 @@ body {
 .row {
   display: -webkit-flex;
   display: flex;
+  flex-direction: row;
+  
 }
 
 /* Create three equal columns that sits next to each other */
@@ -34,6 +36,8 @@ body {
   padding: 5px;
   text-align: center;
   content-align: center;
+  display: flex;
+  justify-content: center;  
 }
 
 img {
