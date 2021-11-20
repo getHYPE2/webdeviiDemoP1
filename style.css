@@ -1,8 +1,4 @@
-.header { 
-  back-groundcolor: #F1F1F1;
-  text-align: center;
-  padding: 20px;
-}
+
 
 body {
   font-family: Arial, Helvetica, sans-serif;
@@ -10,7 +6,6 @@ body {
 
 /* Style the header */
 .header {
-  background-color: #f1f1f1;
   padding: 30px;
   text-align: center;
   font-size: 35px;
@@ -21,7 +16,7 @@ body {
   display: -webkit-flex;
   display: flex;
   flex-direction: row;
-  
+
 }
 
 /* Create three equal columns that sits next to each other */
@@ -52,7 +47,6 @@ img {
 
 /* Style the footer */
 .footer {
-  background-color: #f1f1f1;
-  padding: 10px;
+  padding: 20px;
   text-align: center;
 }
